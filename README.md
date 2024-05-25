@@ -1,16 +1,21 @@
-## Hi there 👋
+<br />
+<p align="center">
 
-<!--
-**CR0MEABI/CR0MEABI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">CR0ME</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    German Minecraft Plugins Developer
+    <br />
+  <br />
+    <div align="center">
+  <img align="center" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
+  <img align="center" alt="Java" width="26px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
+  <img align="center" alt="MySQL" width="26px" src="https://cdn-icons-png.flaticon.com/128/3161/3161158.png" />
+  <img align="center" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" />
+  <img align="center" alt="Redis" width="26px" src="https://www.creoline.de/assets/img/tech/redis.svg" />
+  <img align="center" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+  <img align="center" alt="GitHub" width="26px" src="https://icon-library.com/images/github_png63.png" />
+  </div>
+  </p> 
+</p>
